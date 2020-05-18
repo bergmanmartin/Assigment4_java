@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="6a8647a9-33f2-4023-8d07-a9143e77d83d" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="af1da3c8-acf8-4128-a461-7fc830486746" name="Default Changelist" comment="" />
+>>>>>>> Stashed changes
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< Updated upstream
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
@@ -22,12 +27,19 @@
     </option>
   </component>
   <component name="ProjectId" id="1bjEzIcNQksMY57K9t5cqyQkOlJ" />
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1c4UzcyVDRgXkw3S7EBwLlSS8Hb" />
+>>>>>>> Stashed changes
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+<<<<<<< Updated upstream
     <property name="deletionFromPopupRequiresConfirmation" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -78,6 +90,10 @@
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
+=======
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> Stashed changes
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -96,15 +112,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< Updated upstream
       <changelist id="6a8647a9-33f2-4023-8d07-a9143e77d83d" name="Default Changelist" comment="" />
       <created>1555620794505</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555620794505</updated>
+=======
+      <changelist id="af1da3c8-acf8-4128-a461-7fc830486746" name="Default Changelist" comment="" />
+      <created>1589787622776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589787622776</updated>
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
+<<<<<<< Updated upstream
     <state x="564" y="332" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1589137386578">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
@@ -203,5 +228,11 @@
         </settings>
       </state>
     </states>
+=======
+    <state x="774" y="398" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1589788448062">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="774" y="398" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589788448062" />
+>>>>>>> Stashed changes
   </component>
 </project>
