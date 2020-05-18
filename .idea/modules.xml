@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Assigment4_java.iml" filepath="$PROJECT_DIR$/.idea/Assigment4_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaGUITest.iml" filepath="$PROJECT_DIR$/JavaGUITest.iml" />
     </modules>
   </component>
 </project>
