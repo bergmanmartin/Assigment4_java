@@ -57,6 +57,13 @@ public class Controller {
 
     }
 
+    public void replace(String text, String find, String replace, JTextPane destination) {
+        this.destination = destination;
+
+        String [] split = text.split("\n}");
+
+    }
+
 
 
 
