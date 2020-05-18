@@ -1,0 +1,2 @@
+Högerklicka på iml-filen, välja "öppna med Intillij Community 2019
+När du vill köra projektet, välj JavaProj när den visar Configuration.
